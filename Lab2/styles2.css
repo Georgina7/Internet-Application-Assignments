@@ -1,0 +1,71 @@
+html{
+	background: url("Pics/coralback.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+
+fieldset{
+	border:none;
+}
+
+.pasreset{
+	background-color: #E78484;
+	width: 24%;
+	/*height: 320px;*/
+	padding: 25px;
+	margin-top: 150px;
+}
+
+.pasreset input[type = password], input[type = Email]{
+	border:none;
+	outline: none;
+	padding: 10px;
+	border-radius: 5px;
+	background-color: #C8F4F9;
+}
+
+.pasreset input[type = password]:hover, input[type = Email]:hover{
+	border: #059DC0 solid 1px;
+}
+
+.pasreset button{
+	border: none;
+	background-color: #C8F4F9;
+	padding: 7px;
+	border-radius: 15px;
+	width: 70px;
+	color: #E78484;
+	outline: none;
+}
+
+.pasreset button:hover{
+	background-color: #059DC0;
+	color: #C8F4F9;
+}
+
+.profpic{
+	background-color: #E78484;
+	width: 24%;
+	margin-top: 130px;
+	padding: 25px; 
+}
+
+.profpic img{
+	border-radius: 50%;
+	height: 160px;
+	width: 160px;
+}
+
+.profpic button{
+	background-color: #C8F4F9;
+	color: #E78484;
+	padding: 7px;
+	width: 70px;
+	border: none;
+	border-radius: 15px;
+	outline: none;
+}
+
+.profpic button:hover{
+	background-color: #059DC0;
+	color: #C8F4F9;
+}

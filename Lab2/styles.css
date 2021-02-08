@@ -1,0 +1,146 @@
+html{
+	background: url("Pics/coralback.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+
+fieldset{
+	border: none;
+}
+
+.login{
+	
+	width: 600px;
+	height: 420px;
+	display: flex; 
+	/*padding-left:105px;*/
+	margin-top: 100px;
+
+}
+
+.logindets{
+	background-color: #E78484;
+	width: 300px;
+	height: 350px;
+	padding-top: 100px;
+
+}
+
+.logindets a{
+	color: #C8F4F9;
+}
+
+.logindets a:hover{
+	color: #059DC0;
+}
+
+.logindets button{
+	border: none;
+	background-color: #C8F4F9;
+	height: 25px;
+	width: 70px;
+	border-radius: 15px;
+	color:  #E78484;
+	outline: none;
+}
+
+.logindets button:hover{
+	background-color: #059DC0;
+	color: #C8F4F9; 
+}
+
+.logindets input[type = Email], input[type = password]{
+	border: none;
+	height: 27px;
+	width: 180px;
+	border-radius: 5px;
+	padding: 3px;
+	background-color: #C8F4F9;
+	outline: none;
+
+}
+
+.logindets input[type = Email]:hover, input[type = password]:hover{
+	border: #059DC0 solid 1px;
+}
+
+.prompt{
+	background: url("Pics/pasteback.jpg");
+	width: 300px;
+	height: 350px;
+	padding-top: 100px;
+}
+
+.prompt a{
+	background-color: #FCA4A2;
+	text-decoration: none;
+	background-size: 30px 30px;
+	width: 20px;
+	/*padding: 10px;*/
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 15px;
+	color: #059DC0;
+}
+
+.prompt a:hover{
+	background-color: #059DC0;
+	color: #FCA4A2;
+}
+
+.signupdets
+{
+	background-color: #E78484;
+	width: 300px;
+	height: 450px;
+	/*padding-top: 10px;*/
+}
+
+.signupdets button{
+	border: none;
+	background-color: #C8F4F9;
+	height: 25px;
+	width: 70px;
+	border-radius: 15px;
+	color:  #E78484;
+	font-size: 13px;
+	outline: none;
+}
+ .signupdets button:hover{
+	background-color: #059DC0;
+	color: #C8F4F9; 
+}
+
+.signupdets  input[type = Email], input[type = password], input[type = text]{
+	border: none;
+	height: 27px;
+	width: 180px;
+	border-radius: 5px;
+	padding: 3px;
+	background-color: #C8F4F9;
+	outline: none;
+}
+
+.signupdets input[type = Email]:hover, input[type = password]:hover, input[type = text]:hover{
+	border: #059DC0 solid 1px;
+}
+
+.file{
+	opacity: 0;
+	width: 0.1px;
+	height: 0.1px;
+	position: absolute;
+}
+
+.file-input label{
+	background-color: #C8F4F9;
+	padding: 5px 20px 5px 20px;
+	border-radius: 15px;
+	color:  #E78484;
+}
+
+.file-input label:hover{
+	background-color: #059DC0;
+	color: #C8F4F9;
+}
