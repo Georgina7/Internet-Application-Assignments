@@ -19,4 +19,4 @@ photo)
 ![image](https://user-images.githubusercontent.com/57445279/104305943-64782380-54de-11eb-8b6a-a65760e4b93b.png)
 
 ## Password Reset Page
-![image](https://user-images.githubusercontent.com/57445279/106441444-1b870f80-648b-11eb-9cef-60c8c23ae2f7.png)
+![image](https://user-images.githubusercontent.com/57445279/107259188-c2504a80-6a4d-11eb-9a15-6cb1e14049e2.png)
