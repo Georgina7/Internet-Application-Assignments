@@ -1,5 +1,5 @@
 # Internet-Application-Assignments
-Assignments Repository
+Assignments Repository - Lab 3
 
 Short exercise to:
 - Use ajax to submit your form data to server for the register, login and change password forms i.e., for the register form, for instance, when you click the Register button, the page should not
