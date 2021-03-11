@@ -7,7 +7,7 @@ class DBConnect
     public function __construct(){
         $servername="localhost";
         $username="root";
-        $password="Kihuga@007";
+        $password="";
         $dbname="gmail_api";
         try {
             //"mysql:host=$server;dbname=$dbname";
